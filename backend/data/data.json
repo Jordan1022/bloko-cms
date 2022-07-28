@@ -1,16 +1,16 @@
 {
   "global": {
-    "siteName": "Strapi Blog",
+    "siteName": "Blok Blog",
     "defaultSeo": {
       "metaTitle": "Page",
-      "metaDescription": "A blog made with Strapi",
+      "metaDescription": "",
       "shareImage": null
     },
-    "siteDescription": "A Blog made with Strapi",
+    "siteDescription": "",
     "favicon": null
   },
   "about": {
-    "title": "About the strapi blog",
+    "title": "About the blog",
     "blocks": [
       {
         "__component": "shared.quote",

@@ -1,0 +1,21 @@
+{
+    "data": {
+        "strapiGlobal": {
+            "siteName": "Blog",
+            "favicon": {
+                "localFile": {
+                    "url": "http://localhost:1337/uploads/favicon_6029ff64c8.png"
+                }
+            },
+            "defaultSeo": {
+                "metaTitle": "Page",
+                "metaDescription": "It's a blog?",
+                "shareImage": {
+                    "localFile": {
+                        "url": "http://localhost:1337/uploads/default_image_d90df38e93.png"
+                    }
+                }
+            }
+        }
+    }
+}

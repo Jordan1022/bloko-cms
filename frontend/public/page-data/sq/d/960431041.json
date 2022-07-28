@@ -1,0 +1,177 @@
+{
+    "data": {
+        "allStrapiArticle": {
+            "nodes": [
+                {
+                    "id": "31ec628e-0d6c-55c1-a8d6-2217acc66a50",
+                    "slug": "monty-python-is-legit",
+                    "title": "Monty Python",
+                    "description": "Still awesome",
+                    "cover": {
+                        "alternativeText": "monty1python.jpg",
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/d9cdd9fcddaa05bf1d745ddb02320cdb/f4d9e/monty1python_4d11df4110.jpg",
+                                            "srcSet": "/static/d9cdd9fcddaa05bf1d745ddb02320cdb/59181/monty1python_4d11df4110.jpg 350w,\n/static/d9cdd9fcddaa05bf1d745ddb02320cdb/1cf6b/monty1python_4d11df4110.jpg 700w,\n/static/d9cdd9fcddaa05bf1d745ddb02320cdb/f4d9e/monty1python_4d11df4110.jpg 1400w",
+                                            "sizes": "(min-width: 1400px) 1400px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/d9cdd9fcddaa05bf1d745ddb02320cdb/30ec3/monty1python_4d11df4110.webp 350w,\n/static/d9cdd9fcddaa05bf1d745ddb02320cdb/c0c47/monty1python_4d11df4110.webp 700w,\n/static/d9cdd9fcddaa05bf1d745ddb02320cdb/a5e13/monty1python_4d11df4110.webp 1400w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 1400px) 1400px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 1400,
+                                    "height": 791
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": "7545ac03-c6dc-5d14-8662-b8213ef531d1",
+                    "slug": "the-internet-s-own-boy",
+                    "title": "President Brendon",
+                    "description": "Follow the story of Brendon Ross, the man who could change the world",
+                    "cover": {
+                        "alternativeText": "MVIMG_20190531_102352.jpg",
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/218f403c18c5778d2e0ab4c044cd9e37/47930/MVIMG_20190531_102352_157effd559.jpg",
+                                            "srcSet": "/static/218f403c18c5778d2e0ab4c044cd9e37/f282a/MVIMG_20190531_102352_157effd559.jpg 244w,\n/static/218f403c18c5778d2e0ab4c044cd9e37/f4add/MVIMG_20190531_102352_157effd559.jpg 487w,\n/static/218f403c18c5778d2e0ab4c044cd9e37/47930/MVIMG_20190531_102352_157effd559.jpg 974w",
+                                            "sizes": "(min-width: 974px) 974px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/218f403c18c5778d2e0ab4c044cd9e37/b2fa4/MVIMG_20190531_102352_157effd559.webp 244w,\n/static/218f403c18c5778d2e0ab4c044cd9e37/c0b27/MVIMG_20190531_102352_157effd559.webp 487w,\n/static/218f403c18c5778d2e0ab4c044cd9e37/748fb/MVIMG_20190531_102352_157effd559.webp 974w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 974px) 974px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 974,
+                                    "height": 550
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": "4a1498b6-ae0b-50ff-bb60-41a8de12f582",
+                    "slug": "blake-mountain",
+                    "title": "Blake: the man, the mountain",
+                    "description": "Blake and a mountain",
+                    "cover": {
+                        "alternativeText": "blakew.jpeg",
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#0868e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/82a21c30208c8dffd95b86b52092ffbf/66b0d/blakew_729f77a002.jpg",
+                                            "srcSet": "/static/82a21c30208c8dffd95b86b52092ffbf/e743d/blakew_729f77a002.jpg 384w,\n/static/82a21c30208c8dffd95b86b52092ffbf/6f92b/blakew_729f77a002.jpg 768w,\n/static/82a21c30208c8dffd95b86b52092ffbf/66b0d/blakew_729f77a002.jpg 1536w",
+                                            "sizes": "(min-width: 1536px) 1536px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/82a21c30208c8dffd95b86b52092ffbf/46167/blakew_729f77a002.webp 384w,\n/static/82a21c30208c8dffd95b86b52092ffbf/b6e83/blakew_729f77a002.webp 768w,\n/static/82a21c30208c8dffd95b86b52092ffbf/1c70c/blakew_729f77a002.webp 1536w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 1536px) 1536px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 1536,
+                                    "height": 868
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": "257add35-b2e9-5de9-be03-9d0c7583b9e2",
+                    "slug": "boss-man",
+                    "title": "Boss Man",
+                    "description": "He's a boss",
+                    "cover": {
+                        "alternativeText": "279430315_275173018073638_5633208437805923780_n.jpg",
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#b88868",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5bdb9f9b5afbfd03fccbc80baf59b316/cac45/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.jpg",
+                                            "srcSet": "/static/5bdb9f9b5afbfd03fccbc80baf59b316/37b93/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.jpg 756w,\n/static/5bdb9f9b5afbfd03fccbc80baf59b316/f393b/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.jpg 1512w,\n/static/5bdb9f9b5afbfd03fccbc80baf59b316/cac45/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.jpg 3024w",
+                                            "sizes": "(min-width: 3024px) 3024px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/5bdb9f9b5afbfd03fccbc80baf59b316/bf8d3/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.webp 756w,\n/static/5bdb9f9b5afbfd03fccbc80baf59b316/b20a1/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.webp 1512w,\n/static/5bdb9f9b5afbfd03fccbc80baf59b316/cfbc8/279430315_275173018073638_5633208437805923780_n_fc9ab5a063.webp 3024w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 3024px) 3024px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 3024,
+                                    "height": 1708
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": "40318be6-4d3f-5c6a-8ae5-5c1b328b1c04",
+                    "slug": "what-s-inside-a-black-hole",
+                    "title": "What's inside a Black Hole...",
+                    "description": "Maybe the answer is in this article, or not...",
+                    "cover": {
+                        "alternativeText": "An image uploaded to Strapi called what-s-inside-a-black-hole",
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/4c516f33e6e3298ce7a5e312da05d070/c470b/what_s_inside_a_black_hole_73063d19c8.jpg",
+                                            "srcSet": "/static/4c516f33e6e3298ce7a5e312da05d070/1bf32/what_s_inside_a_black_hole_73063d19c8.jpg 200w,\n/static/4c516f33e6e3298ce7a5e312da05d070/19ad5/what_s_inside_a_black_hole_73063d19c8.jpg 400w,\n/static/4c516f33e6e3298ce7a5e312da05d070/c470b/what_s_inside_a_black_hole_73063d19c8.jpg 800w",
+                                            "sizes": "(min-width: 800px) 800px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/4c516f33e6e3298ce7a5e312da05d070/b6124/what_s_inside_a_black_hole_73063d19c8.webp 200w,\n/static/4c516f33e6e3298ce7a5e312da05d070/09f8f/what_s_inside_a_black_hole_73063d19c8.webp 400w,\n/static/4c516f33e6e3298ce7a5e312da05d070/cee7b/what_s_inside_a_black_hole_73063d19c8.webp 800w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 800px) 800px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 800,
+                                    "height": 452
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "strapiGlobal": {
+            "siteName": "Blog",
+            "siteDescription": "A Blog..."
+        }
+    }
+}
